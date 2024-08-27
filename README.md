@@ -1,13 +1,13 @@
 # Engenharia de Requisitos 📋
 
 ## Índice
-- [Requisitos](#requisitos-🎯)
-- [Introdução](#introdução-🛠️)
-- [Regras de Negócio](#regras-de-negócio-📊)
-- [Dado](#dado-🗃️)
-- [LGPD](#lgpd-🔐)
+- [Requisitos](#requisitos🎯)
+- [Introdução](#introdução🛠️)
+- [Regras de Negócio](#regras-de-negócio📊)
+- [Dado](#dado🗃️)
+- [LGPD](#lgpd🔐)
 - [Informação](#informação-ℹ️)
-- [Conhecimento](#conhecimento-💡)
+- [Conhecimento](#conhecimento💡)
 
 ## Requisitos 🎯
 Um requisito é qualquer necessidade ou desejo que tenha efeito sobre o que está sendo criado ou gerido no contexto de software.
