@@ -30,5 +30,4 @@ Informação é a combinação de dados e conhecimentos organizados para entende
 ## Conhecimento 
 Conhecimento é o resultado de transformar informação em algo mais compreensivo, combinando-a com nossas experiências e entendimentos. É a forma como usamos e aplicamos o que aprendemos para entender melhor o mundo e tomar decisões.
 
-## Resumo 📚
 Em resumo, o dado gera informação, e a informação gera conhecimento.
