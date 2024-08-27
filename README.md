@@ -2,9 +2,9 @@
 
 ## Índice
 - [Requisitos](#requisitos)
-- [Introdução](#introdução-🛠)
+- [Introdução](#introdução)
 - [Regras de Negócio](#regras-de-negócio)
-- [Dado](#dado-🗃)
+- [Dado](#dado)
 - [LGPD](#lgpd)
 - [Informação](#informação-ℹ️)
 - [Conhecimento](#conhecimento)
@@ -12,13 +12,13 @@
 ## Requisitos 
 Um requisito é qualquer necessidade ou desejo que tenha efeito sobre o que está sendo criado ou gerido no contexto de software.
 
-## Introdução 🛠
+## Introdução 
 A engenharia de requisitos é o processo de identificar e documentar o que é necessário para resolver um problema ou alcançar um objetivo em um projeto de software. Isso inclui descobrir, analisar e verificar os requisitos e restrições.
 
 ## Regras de Negócio 
 Regras de negócio são diretrizes que orientam como uma empresa deve reagir a eventos específicos, incluindo mudanças e atividades. Elas asseguram que a empresa siga suas políticas e procedimentos, estabelecendo condições e restrições para garantir que suas operações estejam alinhadas com suas metas e objetivos.
 
-## Dado 🗃
+## Dado
 Dado é uma informação bruta que, por si só, não possui significado ou valor para tomada de decisões. Sem processamento ou contexto, um dado é apenas um registro sem sentido e não contribui para conclusões ou decisões. Quando esse dado se vincula a uma pessoa, ele se torna um dado pessoal.
 
 ## LGPD 
