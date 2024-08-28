@@ -12,7 +12,6 @@
 - [Natureza Jurídica](#natureza-jurídica)
 - [Regime Tributário](#regime-tributário)
 - [Tipos de Empresa por Porte](#tipos-de-empresa-por-porte)
-- [Microempreendedor Individual (MEI)](microempreendedor-individual-(MEI))
 
 ## Requisitos 
 Um requisito é qualquer necessidade ou desejo que tenha efeito sobre o que está sendo criado ou gerido no contexto de software.
