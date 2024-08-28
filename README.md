@@ -8,6 +8,7 @@
 - [LGPD](#lgpd)
 - [Informação](#informação-ℹ️)
 - [Conhecimento](#conhecimento)
+- [Porte da Empresa](#porte-da-empresa)
 
 ## Requisitos 
 Um requisito é qualquer necessidade ou desejo que tenha efeito sobre o que está sendo criado ou gerido no contexto de software.
