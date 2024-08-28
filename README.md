@@ -31,3 +31,9 @@ Informação é a combinação de dados e conhecimentos organizados para entende
 Conhecimento é o resultado de transformar informação em algo mais compreensivo, combinando-a com nossas experiências e entendimentos. É a forma como usamos e aplicamos o que aprendemos para entender melhor o mundo e tomar decisões.
 
 Em resumo, o dado gera informação, e a informação gera conhecimento.
+
+## Porte da Empresa
+O porte da empresa refere-se ao tamanho de uma empresa, determinado pelo faturamento anual. 
+- Empresas já abertas: O porte da empresa é determinado pelo faturamento bruto anual que ela já gera. Ou seja, é analisado o quanto a empresa realmente faturou no último ano.
+
+- Empresas que serão abertas: Como essas empresas ainda não começaram a operar, o porte é estimado com base em uma projeção do faturamento bruto anual esperado. Isso significa que se faz uma previsão de quanto a empresa deverá faturar no futuro, e essa estimativa é usada para determinar o porte da empresa.
