@@ -9,6 +9,10 @@
 - [Informação](#informação-ℹ️)
 - [Conhecimento](#conhecimento)
 - [Porte da Empresa](#porte-da-empresa)
+- [Natureza Jurídica](#natureza-jurídica)
+- [Regime Tributário](#regime-tributário)
+- [Tipos de Empresa por Porte](#tipos-de-empresa-por-porte)
+- [Microempreendedor Individual (MEI)](microempreendedor-individual-(MEI))
 
 ## Requisitos 
 Um requisito é qualquer necessidade ou desejo que tenha efeito sobre o que está sendo criado ou gerido no contexto de software.
@@ -38,3 +42,12 @@ O porte da empresa refere-se ao tamanho de uma empresa, determinado pelo faturam
 - Empresas já abertas: O porte da empresa é determinado pelo faturamento bruto anual que ela já gera. Ou seja, é analisado o quanto a empresa realmente faturou no último ano.
 
 - Empresas que serão abertas: Como essas empresas ainda não começaram a operar, o porte é estimado com base em uma projeção do faturamento bruto anual esperado. Isso significa que se faz uma previsão de quanto a empresa deverá faturar no futuro, e essa estimativa é usada para determinar o porte da empresa.
+
+## Natureza Jurídica
+A Natureza Jurídica é a forma legal que uma empresa adota, definindo como ela é reconhecida pela lei. Isso influencia a responsabilidade dos donos, os impostos que a empresa deve pagar e as regras para seu funcionamento.
+
+## Regime Tributário
+O Regime Tributário é o sistema que define as regras para o cálculo e pagamento dos impostos de uma empresa. Ele também determina quais são as obrigações fiscais e as declarações que a empresa precisa apresentar aos órgãos públicos. O regime tributário escolhido influencia diretamente a quantidade de impostos que a empresa pagará e como ela deve cumprir suas responsabilidades fiscais.
+
+##Tipos de Empresa por Porte
+- ##Microempreendedor Individual (MEI): É uma forma de empresa ideal para trabalhadores autônomos que precisam de um CNPJ para emitir notas fiscais. É uma opção popular por ser fácil, rápida e com pouca burocracia. No entanto, há limitações, como o faturamento anual máximo de R$ 81.000, a possibilidade de contratar apenas um funcionário, e a proibição de ser sócio de outras empresas ou ter filiais. A tributação é fixa e baseada na atividade exercida, com menos exigências de declarações tributárias. A abertura e o fechamento do CNPJ são feitos totalmente online, e, em muitos casos, a emissão de notas fiscais é dispensada. Além disso, alguns contadores oferecem serviços gratuitos para MEIs.
